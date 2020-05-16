@@ -1,0 +1,1937 @@
+//////////////////////////////////////
+At clock time: 0
+Job Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Wait Queue:
+Ready Queue:
+Task 1
+AT: 0 ET: 10 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 9 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 1
+Job Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Wait Queue:
+Ready Queue:
+Task 1
+AT: 0 ET: 10 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 9 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 2
+Job Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Wait Queue:
+Ready Queue:
+Task 1
+AT: 0 ET: 10 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 8 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 3
+Job Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Wait Queue:
+Ready Queue:
+Task 1
+AT: 0 ET: 10 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 4
+Job Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 1
+AT: 0 ET: 10 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 5
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 9 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 6
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 8 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 7
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 7 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 8
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 6 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 9
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 5 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 10
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 4 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 11
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 3 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 12
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 2 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 13
+Job Queue:
+Wait Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 1
+AT: 0 ET: 1 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+
+
+//////////////////////////////////////
+At clock time: 14
+Task 1 processed at 14
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 4
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+
+
+//////////////////////////////////////
+At clock time: 15
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 4
+AT: 5 ET: 3 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+
+
+//////////////////////////////////////
+At clock time: 16
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 4
+AT: 5 ET: 2 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+
+
+//////////////////////////////////////
+At clock time: 17
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 4
+AT: 5 ET: 1 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+
+
+//////////////////////////////////////
+At clock time: 18
+Task 4 processed at 18
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 19
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 5 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 20
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 4 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 21
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 6 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 22
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 5 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 23
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 4 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 24
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 3 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 25
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 2 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 26
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Running Queue:
+Task 5
+AT: 5 ET: 1 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+
+
+//////////////////////////////////////
+At clock time: 27
+Task 5 processed at 27
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+
+
+//////////////////////////////////////
+At clock time: 28
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 2 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+
+
+//////////////////////////////////////
+At clock time: 29
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 2
+AT: 0 ET: 1 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+
+
+//////////////////////////////////////
+At clock time: 30
+Task 2 processed at 30
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 7 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 31
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 6 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 32
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 5 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 33
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 4 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 34
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 3 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 35
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 2 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 36
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: -1 Exec End Time: -1
+
+Running Queue:
+Task 6
+AT: 5 ET: 1 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+
+
+//////////////////////////////////////
+At clock time: 37
+Task 6 processed at 37
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 9 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 38
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 8 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 39
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Block Queue:
+Task 3
+AT: 5 ET: 7 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 40
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 7 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 41
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 7 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 42
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 6 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 43
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Block Queue:
+Task 3
+AT: 5 ET: 5 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 44
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 5 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 45
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 5 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 46
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 4 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 47
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Block Queue:
+Task 3
+AT: 5 ET: 3 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 48
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 3 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 49
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 3 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 50
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 2 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 51
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Block Queue:
+Task 3
+AT: 5 ET: 1 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 52
+Job Queue:
+Wait Queue:
+Ready Queue:
+Task 3
+AT: 5 ET: 1 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 53
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Task 3
+AT: 5 ET: 1 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: -1
+
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+
+
+//////////////////////////////////////
+At clock time: 54
+Task 3 processed at 54
+Job Queue:
+Wait Queue:
+Ready Queue:
+Running Queue:
+Block Queue:
+Reject Queue:
+Finish Queue:
+Task 1
+AT: 0 ET: 0 Mem Req: 5 IO Req: 1 IO Freq: 0
+Exec Start Time: 4 Exec End Time: 14
+
+Task 4
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 3
+Exec Start Time: 14 Exec End Time: 18
+
+Task 5
+AT: 5 ET: 0 Mem Req: 1 IO Req: 2 IO Freq: 0
+Exec Start Time: 21 Exec End Time: 27
+
+Task 2
+AT: 0 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 2
+Exec Start Time: 1 Exec End Time: 30
+
+Task 6
+AT: 5 ET: 0 Mem Req: 1 IO Req: 1 IO Freq: 0
+Exec Start Time: 30 Exec End Time: 37
+
+Task 3
+AT: 5 ET: 0 Mem Req: 2 IO Req: 2 IO Freq: 1
+Exec Start Time: 37 Exec End Time: 54
+
+
+
+Schedule Finished
+Average Wait Time: 22.5
+Average Response Time: 14.5
+Average Turnaround Time: 12.1667
+Overall CPU Usage: 44
+All Tasks Processed At 54 Milliseconds

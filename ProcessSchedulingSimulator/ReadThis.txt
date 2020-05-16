@@ -1,0 +1,8 @@
+
+The program is split into three files. The newTask.h file holds the instructions
+for individual tasks and the task lists including the classes that
+represent the two entities. All functions that involve moving tasks
+between queues and printing are there. Scheduler.h holds the class that calls and controls 
+the tasks and tasks lists and how differents lists will interact with each other.  
+The .cpp simply creates an object for the schedule class and runs its main function.
+ 
